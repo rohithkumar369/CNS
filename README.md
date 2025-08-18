@@ -74,4 +74,6 @@ int main() {
 ```
 OUTPUT :-
 <img width="627" height="188" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/1cca6e2c-e9a4-452f-8476-594c04dbba28" />
+# Result:
+The program has been executed successfully
 
